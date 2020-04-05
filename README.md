@@ -2,7 +2,7 @@
 
 An Open-source ventilator which can be reproduced with easily available components.This ventilator can supply uninterrupted mechanical ventilation for patients.This device is compatible with Ambu bag / self inflating bag
 
-![Prototype Photo](https://raw.githubusercontent.com/Mayoogh/Project-DIY-Ventilator-/master/Reference%20Photos/Render1.png)
+![Prototype](https://raw.githubusercontent.com/Mayoogh/Project-DIY-Ventilator/master/Reference%20Photos/Render1.png)
 
 According to my calculation, a single prototype can be produced within 90 minutes (1.5 Hrs).
 Here is the breakdown of time 
@@ -11,7 +11,7 @@ Here is the breakdown of time
 
 This prototype uses 2 **Nema17 stepper motor** (can be replaced using **servo** or even **normal dc motor**, depending upon the availability). Both motors are placed facing opposite to each other. The shaft of both motors is attached to a **rack and pinion mechanism** with a compressing **Arm Block** fixed to the end of both rack. Which compresses the 2 Arm Block when the motor is rotated in the opposite direction. An **self inflating bag** or **ambu bag** is placed in between the 2 Arm Block. So when the 2 block comes closser the bag will compress and act as mechanical ventilation and the cycle continues till the pre defined time.
 
-![Prototype Photo](https://raw.githubusercontent.com/Mayoogh/Project-DIY-Ventilator-/master/Reference%20Photos/Snapshot%201.png)
+![Prototype](https://raw.githubusercontent.com/Mayoogh/Project-DIY-Ventilator/master/Reference%20Photos/Snapshot%201.png)
 
 ## The Main Features of this prototype
  + Users can set the `duration` and `speed` of the compression and expansion cycle separately. [Under Progress]
@@ -27,5 +27,10 @@ This prototype uses 2 **Nema17 stepper motor** (can be replaced using **servo** 
  ### Resources 
 
 + http://oedk.rice.edu/apollobvm
++ CAD Models
+   - Ambu bag : https://grabcad.com/library/ambubag-bag-valve-mask-1
+   - Nema17   : https://grabcad.com/library/nema17-stepper-motor-5
+   - Endstop  : https://grabcad.com/library/limit-switch-10t85-gsfy-10-1
+   
 
 **There can be lots of improvement made on this, looking for good contributions to make it better and more feasible**
