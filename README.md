@@ -6,10 +6,10 @@ An Open-source ventilator which can be reproduced with easily available componen
 
 According to my calculation, a single prototype can be produced within 90 minutes (1.5 Hrs).
 Here is the breakdown of time 
-+ The required laser cut pieces and 3D printed parts require a minimum of 1 hour (if printed on multiple machine)
++ The required laser cut pieces and 3D printed parts require a minimum of 1 hour (if printed on multiple machines)
 + The assembly of the remaining parts can be done under 20-30 minutes. 
 
-This prototype uses 2 **Nema17 stepper motor** (can be replaced using **servo** or even **normal dc motor**, depending upon the availability). Both motors are placed facing opposite to each other. The shaft of both motors is attached to a **rack and pinion mechanism** with a compressing **Arm Block** fixed to the end of both rack. Which compresses the 2 Arm Block when the motor is rotated in the opposite direction. An **self inflating bag** or **ambu bag** is placed in between the 2 Arm Block. So when the 2 block comes closser the bag will compress and act as mechanical ventilation and the cycle continues till the pre defined time.
+This prototype uses 2 **Nema17 stepper motor** (can be replaced using **servo** or even **normal dc motor**, depending upon the availability). Both motors are placed facing opposite to each other. The shaft of both motors is attached to a **rack and pinion mechanism** with a compressing **Arm Block** fixed to the end of both rack. Which compresses the 2 Arm Block when the motor is rotated in the opposite direction. An ** self-inflating bag** or **Ambu bag** is placed in between the 2 Arm Block. So when the 2 block comes closer the bag will compress and act as mechanical ventilation and the cycle continues till the predefined time.
 
 ![Prototype](https://raw.githubusercontent.com/Mayoogh/Project-DIY-Ventilator/master/Reference%20Photos/Snapshot%201.png)
 
