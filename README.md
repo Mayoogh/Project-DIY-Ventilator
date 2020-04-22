@@ -2,12 +2,19 @@
 
 An Open-source ventilator which can be reproduced with easily available components.This ventilator can supply uninterrupted mechanical ventilation for patients.This device is compatible with Ambu bag / self inflating bag
 
-![Prototype](https://raw.githubusercontent.com/Mayoogh/Project-DIY-Ventilator/master/Reference%20Photos/Render1.png)
+
+[![Video](https://i.stack.imgur.com/E3mfZ.png)](https://www.youtube.com/watch?v=Qmzi4mUN3AQ)
+
 
 According to my calculation, a single prototype can be produced within 90 minutes (1.5 Hrs).
 Here is the breakdown of time 
 + The required laser cut pieces and 3D printed parts require a minimum of 1 hour (if printed on multiple machines)
 + The assembly of the remaining parts can be done under 20-30 minutes. 
+
+## Assembly Instructions 
+
+[![Video](https://i.stack.imgur.com/O3vMZ.png)](https://www.youtube.com/watch?v=JbIS1tl6dmI)
+
 
 This prototype uses 2 **Nema17 stepper motor** (can be replaced using **servo** or even **normal dc motor**, depending upon the availability). Both motors are placed facing opposite to each other. The shaft of both motors is attached to a **rack and pinion mechanism** with a compressing **Arm Block** fixed to the end of both rack. Which compresses the 2 Arm Block when the motor is rotated in the opposite direction. An **self-inflating bag** or **Ambu bag** is placed in between the 2 Arm Block. So when the 2 block comes closer the bag will compress and act as mechanical ventilation and the cycle continues till the predefined time.
 
